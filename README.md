@@ -57,4 +57,4 @@ Oto lista klubów piłkarskich, które mogą pojawić się w grze:
 
 ## Autor
 
-[Jakub Mazirkiewicz 5h]
+[Jakub Mazurkiewicz 5h]
